@@ -1,0 +1,13 @@
+{
+  "name": "rabbit-marketing",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static mirror of the Rabbit Marketing site",
+  "scripts": {
+    "start": "serve -l 5000 .",
+    "dev": "serve -l 5000 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.3"
+  }
+}
